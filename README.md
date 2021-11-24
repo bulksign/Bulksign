@@ -9,6 +9,8 @@
 
 
 <br>
+<br>
+
 ### Purpose of this repository
 
 The main purpose of this repository is for issue reporting. If you are Bulksign user and you found a bug or you have an awesome idea for some feature enhancements, please create a new issue in its recommended format.
