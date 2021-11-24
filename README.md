@@ -5,11 +5,11 @@
 
 
 
-## Bulksign is a Digital Transaction Management and digital signatures solution. We offer you a solution to easily and securely sign digital documents anywhere and from any device (which can run a browser). We offer both a SAAS product and an on-premise version of the solution which customers can install on their servers.
+## Bulksign is a Digital Transaction Management and digital signatures solution. We offer anyone  a solution to easily and securely sign digital documents anywhere and from any device (which can run a browser). We offer both a SAAS product and an on-premise version of the solution which customers can install on their servers.
 
 
 <br>
-###Purpose of this repository
+### Purpose of this repository
 
 The main purpose of this repository is for issue reporting. If you are Bulksign user and you found a bug or you have an awesome idea for some feature enhancements, please create a new issue in its recommended format.
 
