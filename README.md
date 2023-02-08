@@ -5,8 +5,7 @@
 
 
 
-## Bulksign is a Digital Transaction Management and digital signatures solution. We offer anyone  a solution to easily and securely sign digital documents anywhere and from any device (which can run a browser). We offer both a SAAS product and an on-premise version of the solution which customers can install on their servers.
-
+## Bulksign is a Digital Transaction Management solution. With our digital signatures platform, we offer anyone a solution to easily and securely sign digital documents anywhere and from any device. We are offering both a SAAS product and an on-premise version which customers can install on their servers.
 
 <br>
 <br>
